@@ -1,0 +1,13 @@
+@import "assets/styles/colors.scss";
+
+.container {
+    background-color: $color-desktop;
+    min-height: 100vh;
+    min-width: 900px;
+}
+
+.paperSheet {
+    background-color: $color-white;
+    max-width: 1400px;
+    margin: 0 auto;
+}

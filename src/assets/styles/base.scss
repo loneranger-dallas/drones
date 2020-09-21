@@ -1,0 +1,120 @@
+.flex {
+    display: flex;
+}
+
+.fluid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.elastic {
+    flex: 1;
+}
+
+.fdr {
+    flex-direction: row;
+}
+
+.fdc {
+    flex-direction: column;
+}
+
+.fsb {
+    justify-content: space-between;
+}
+
+.fjce {
+    justify-content: flex-end;
+}
+
+.fife {
+    align-items: flex-end;
+}
+
+.fjcc {
+    justify-content: center;
+}
+
+.fase {
+    align-self: flex-end;
+}
+
+.faic {
+    align-items: center;
+}
+
+.p0 {
+    padding: 0;
+}
+
+.p1 {
+    padding: 0.3em;
+}
+
+.p2 {
+    padding: 0.6em;
+}
+
+.p3 {
+    padding: 1em;
+}
+
+.pl1 {
+    padding-left: 0.3em;
+}
+
+.pl2 {
+    padding-left: 0.6em;
+}
+
+.pl3 {
+    padding-left: 1em;
+}
+
+.pl6 {
+    padding-left: 2em;
+}
+
+.pr1 {
+    padding-right: 0.3em;
+}
+
+.pr2 {
+    padding-right: 0.6em;
+}
+
+.pr3 {
+    padding-right: 1em;
+}
+
+.pr6 {
+    padding-right: 2em;
+}
+
+.pb1 {
+    padding-bottom: 0.3em;
+}
+
+.pb2 {
+    padding-bottom: 0.6em;
+}
+
+.pt1 {
+    padding-top: 0.3em;
+}
+
+.pt2 {
+    padding-top: 0.6em;
+}
+
+.mb1 {
+    margin-bottom: 0.1em;
+}
+
+.tac {
+    text-align: center;
+}
+
+.tar {
+    text-align: right;
+}

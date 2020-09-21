@@ -1,0 +1,2 @@
+
+export const LOAD_DRONES_SUCCESS = "LOAD_DRONES_SUCCESS";

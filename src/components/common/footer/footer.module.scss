@@ -1,0 +1,11 @@
+@import "assets/styles/colors.scss";
+
+.container {
+    color: $color-white;
+    min-height: 4.5em;
+    background-color: $color-footer-bkgnd;
+
+    .a {
+        color: $color-white;
+    }
+}
